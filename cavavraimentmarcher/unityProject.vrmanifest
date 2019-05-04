@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cavavraimentmarcher.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\etudiant\\Documents\\Fadoua Louis\\cavavraimentmarcher\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "cavavraimentmarcher [Testing]"
+        }
+      }
+    }
+  ]
+}
